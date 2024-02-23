@@ -40,9 +40,9 @@ public class AYUDA extends JFrame {
                 + "<html/><br/>ACEPTAR.Para Verififcar Usuario/Contrasena."
                 + "<br/>*Solo tienes 3 intentos en poner tu usuario y contrasena correctos.No puedes introducir campos Vacios.<br/>"
                 + "<html/>*Si acomulastes tu 3 oportunidades te este te sacara.<br/>"
-                + "<html/>2.Accederas a ventana de Bienevenida"+"<br/>*Ingresa tu ciclo y selecciona tu Semestre y materia <br/>. "
+                + "<html/>2.Accederas a ventana de Bienvenida"+"<br/>*Ingresa tu ciclo y selecciona tu Semestre y materia <br/>. "
                 + "<html/>3.Ventana de Calificaciones."
-                + "<br/>*Introduce la calificaion por cada unidad. <br/>"
+                + "<br/>*Introduce la calificacion por cada unidad. <br/>"
                 + "<br/>*Boton CANCELAR borra calificaciones capturadas."
                 + "<br/>*Boton ACEPTAR te sacara en la ultima ventana. ");
         sur=new JPanel(new GridLayout(1,1));
